@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q445945/Form1.cs) (VB: [Form1.vb](./VB/Q445945/Form1.vb))
+* [MyColorPickEdit.cs](./CS/Q445945/MyColorPickEdit.cs) (VB: [MyColorPickEdit.vb](./VB/Q445945/MyColorPickEdit.vb))
+* [Program.cs](./CS/Q445945/Program.cs) (VB: [Program.vb](./VB/Q445945/Program.vb))
+<!-- default file list end -->
 # How to remove colors from color collection in ColorPickEdit
 
 
